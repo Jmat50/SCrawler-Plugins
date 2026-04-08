@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\bin\Release\SCrawler.Plugin.Motherless.dll
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\bin\Release\SCrawler.Plugin.Motherless.pdb
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\obj\Release\SCrawler.Plugin.Motherless.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\obj\Release\SCrawler.Plugin.Motherless.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\obj\Release\SCrawler.Plugin.Motherless.dll
+C:\VIsual Studio\SCrawler\plugins\Motherless\SCrawler.Plugin.Motherless\obj\Release\SCrawler.Plugin.Motherless.pdb

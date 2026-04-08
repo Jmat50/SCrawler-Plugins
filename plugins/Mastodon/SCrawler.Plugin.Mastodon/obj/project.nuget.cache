@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gwu6ajgtnpY=",
+  "success": true,
+  "projectFilePath": "C:\\VIsual Studio\\SCrawler\\plugins\\Mastodon\\SCrawler.Plugin.Mastodon\\SCrawler.Plugin.Mastodon.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

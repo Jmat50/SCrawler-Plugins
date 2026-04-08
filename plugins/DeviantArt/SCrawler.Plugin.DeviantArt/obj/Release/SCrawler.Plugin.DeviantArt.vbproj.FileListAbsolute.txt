@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\bin\Release\SCrawler.Plugin.DeviantArt.dll
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\bin\Release\SCrawler.Plugin.DeviantArt.pdb
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\obj\Release\SCrawler.Plugin.DeviantArt.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\obj\Release\SCrawler.Plugin.DeviantArt.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\obj\Release\SCrawler.Plugin.DeviantArt.dll
+C:\VIsual Studio\SCrawler\plugins\DeviantArt\SCrawler.Plugin.DeviantArt\obj\Release\SCrawler.Plugin.DeviantArt.pdb

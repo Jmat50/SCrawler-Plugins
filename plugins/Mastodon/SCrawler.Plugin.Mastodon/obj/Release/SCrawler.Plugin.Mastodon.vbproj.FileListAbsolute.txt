@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\bin\Release\SCrawler.Plugin.Mastodon.dll
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\bin\Release\SCrawler.Plugin.Mastodon.pdb
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\obj\Release\SCrawler.Plugin.Mastodon.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\obj\Release\SCrawler.Plugin.Mastodon.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\obj\Release\SCrawler.Plugin.Mastodon.dll
+C:\VIsual Studio\SCrawler\plugins\Mastodon\SCrawler.Plugin.Mastodon\obj\Release\SCrawler.Plugin.Mastodon.pdb

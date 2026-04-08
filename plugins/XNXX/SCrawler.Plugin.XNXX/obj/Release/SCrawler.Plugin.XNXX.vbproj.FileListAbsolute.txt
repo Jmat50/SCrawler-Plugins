@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\bin\Release\SCrawler.Plugin.XNXX.dll
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\bin\Release\SCrawler.Plugin.XNXX.pdb
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\obj\Release\SCrawler.Plugin.XNXX.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\obj\Release\SCrawler.Plugin.XNXX.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\obj\Release\SCrawler.Plugin.XNXX.dll
+C:\VIsual Studio\SCrawler\plugins\XNXX\SCrawler.Plugin.XNXX\obj\Release\SCrawler.Plugin.XNXX.pdb

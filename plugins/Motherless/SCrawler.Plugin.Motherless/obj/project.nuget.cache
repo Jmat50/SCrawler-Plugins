@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zqmnf7ZLl54=",
+  "success": true,
+  "projectFilePath": "C:\\VIsual Studio\\scrawler\\plugins\\Motherless\\SCrawler.Plugin.Motherless\\SCrawler.Plugin.Motherless.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

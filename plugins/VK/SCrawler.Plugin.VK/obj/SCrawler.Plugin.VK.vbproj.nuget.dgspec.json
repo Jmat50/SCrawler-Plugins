@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\VIsual Studio\\scrawler\\plugins\\VK\\SCrawler.Plugin.VK\\SCrawler.Plugin.VK.vbproj": {}
+  },
+  "projects": {
+    "C:\\VIsual Studio\\scrawler\\plugins\\VK\\SCrawler.Plugin.VK\\SCrawler.Plugin.VK.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VIsual Studio\\scrawler\\plugins\\VK\\SCrawler.Plugin.VK\\SCrawler.Plugin.VK.vbproj",
+        "projectName": "SCrawler.Plugin.VK",
+        "projectPath": "C:\\VIsual Studio\\scrawler\\plugins\\VK\\SCrawler.Plugin.VK\\SCrawler.Plugin.VK.vbproj",
+        "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
+        "outputPath": "C:\\VIsual Studio\\scrawler\\plugins\\VK\\SCrawler.Plugin.VK\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\SCrawler.PluginProvider.vbproj": {
+                "projectPath": "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\SCrawler.PluginProvider.vbproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies.net461": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\SCrawler.PluginProvider.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\SCrawler.PluginProvider.vbproj",
+        "projectName": "SCrawler.PluginProvider",
+        "projectPath": "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\SCrawler.PluginProvider.vbproj",
+        "packagesPath": "C:\\Users\\Josh\\.nuget\\packages\\",
+        "outputPath": "C:\\VIsual Studio\\scrawler\\SCrawler.PluginProvider\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies.net461": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

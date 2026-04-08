@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LKXsKKIw16A=",
+  "success": true,
+  "projectFilePath": "C:\\VIsual Studio\\SCrawler\\plugins\\Imgur\\SCrawler.Plugin.Imgur\\SCrawler.Plugin.Imgur.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net461\\1.0.3\\microsoft.netframework.referenceassemblies.net461.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

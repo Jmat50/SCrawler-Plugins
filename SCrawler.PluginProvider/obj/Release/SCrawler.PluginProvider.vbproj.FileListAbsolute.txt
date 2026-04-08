@@ -1,0 +1,8 @@
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\bin\Release\SCrawler.PluginProvider.dll
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\bin\Release\SCrawler.PluginProvider.pdb
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.PluginProvider.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.Resources.resources
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.PluginProvider.vbproj.GenerateResource.cache
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.PluginProvider.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.PluginProvider.dll
+C:\VIsual Studio\SCrawler\SCrawler.PluginProvider\obj\Release\SCrawler.PluginProvider.pdb

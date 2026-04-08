@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\bin\Release\SCrawler.Plugin.Imgur.dll
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\bin\Release\SCrawler.Plugin.Imgur.pdb
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\obj\Release\SCrawler.Plugin.Imgur.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\obj\Release\SCrawler.Plugin.Imgur.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\obj\Release\SCrawler.Plugin.Imgur.dll
+C:\VIsual Studio\SCrawler\plugins\Imgur\SCrawler.Plugin.Imgur\obj\Release\SCrawler.Plugin.Imgur.pdb

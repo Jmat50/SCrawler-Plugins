@@ -1,0 +1,6 @@
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\bin\Release\SCrawler.Plugin.EFUKT.dll
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\bin\Release\SCrawler.Plugin.EFUKT.pdb
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\obj\Release\SCrawler.Plugin.EFUKT.vbproj.AssemblyReference.cache
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\obj\Release\SCrawler.Plugin.EFUKT.vbproj.CoreCompileInputs.cache
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\obj\Release\SCrawler.Plugin.EFUKT.dll
+C:\VIsual Studio\SCrawler\plugins\EFUKT\SCrawler.Plugin.EFUKT\obj\Release\SCrawler.Plugin.EFUKT.pdb
