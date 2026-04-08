@@ -1,13 +1,15 @@
 # SCrawler-Plugins
 
-Additional website plugins for SCrawler, organized as a standalone source workspace for building and publishing plugin DLLs.
+A fully Windows-focused SCrawler plugin port, with the packaging and installer experience built in Python for native Windows use.
+
+This repository is organized as a standalone workspace for building, packaging, and publishing SCrawler-compatible plugin DLLs while keeping the workflow centered on Windows.
 
 ## Included
 
 - `SCrawler-Plugins.sln` for the plugin workspace solution
 - `SCrawler.PluginProvider` for the shared plugin contracts
 - `plugins\*` for site-specific plugin projects
-- `GUI-installer` for the Python-based installer utility
+- `GUI-installer` for the Python-based Windows installer and packaging utility
 - `build-release.ps1` for release DLL builds
 
 ## Build Output
@@ -28,5 +30,6 @@ Each plugin builds to a single DLL that can be copied into SCrawler's runtime `P
 
 ## Notes
 
+- This repository is intentionally Windows-first, and its installer workflow is built in Python for Windows users.
 - Plugin assembly names stay on the `SCrawler.Plugin.*` pattern so they remain compatible with SCrawler's loader.
 - Generated build output, release bundles, and the local upstream reference mirror are not intended to be committed as source.
