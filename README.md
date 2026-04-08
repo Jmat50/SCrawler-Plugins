@@ -4,6 +4,8 @@ A fully Windows-focused SCrawler plugin port, with the packaging and installer e
 
 This repository is organized as a standalone workspace for building, packaging, and publishing SCrawler-compatible plugin DLLs while keeping the workflow centered on Windows.
 
+Use the Windows Installer to install all plugins via GUI at \SCrawler-plugins\GUI-installer.
+
 ## Included
 
 - `SCrawler-Plugins.sln` for the plugin workspace solution
